@@ -4,7 +4,6 @@ body {
     font-family: 'Times New Roman', Times, serif;
     background-color: #ffffff;
     width: 95%;
-    margin: auto;
 
 }
  
@@ -115,14 +114,13 @@ footer {
 
 
 
-@import url('https://fonts.googleapis.com/css2?family=avenir:wght@300&display=swap');
+
 
 *{
-    margin: 0;
-    padding: 0;
     box-sizing: border-box;
     font-family: "Poppin", sans-serif;
 }
+
 body {
     min-height: 0;
     background: #fff;
