@@ -3,7 +3,7 @@
 body {
     font-family: 'Times New Roman', Times, serif;
     background-color: #ffffff;
-    width: 95%;
+    width: 100%;
 
 }
  
@@ -47,7 +47,7 @@ h6 {
 }
 
 p {
-    font-size: 65px;
+    font-size: 45px;
     color: #000000;
     f0nt-weight: 400;
 }
@@ -78,7 +78,7 @@ h4 {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    font-size: 70px;
+    font-size: 50px;
     border-radius: 25px;
     padding: 25px;
 }
@@ -96,7 +96,7 @@ section {
 article {
     background-color: #ffffff;
     text-align: center;
-    font-size: 100%;
+    font-size: 50%;
 }
 
 b {
