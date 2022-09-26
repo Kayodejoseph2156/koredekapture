@@ -3,7 +3,6 @@
 body {
     font-family: 'Times New Roman', Times, serif;
     background-color: #ffffff;
-    height: auto;
     width: 95%;
     margin: auto;
 
@@ -20,6 +19,7 @@ body {
 h1 {
     color: #000000;
     font-size: 90px;
+    f0nt-weight: 600;
 }
 
 hr {
@@ -50,6 +50,7 @@ h6 {
 p {
     font-size: 65px;
     color: #000000;
+    f0nt-weight: 400;
 }
 
 b {
