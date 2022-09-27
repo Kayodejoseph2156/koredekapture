@@ -82,7 +82,7 @@ h4 {
     padding: 15px;
 }
 
-section {
+.section {
     display: block;
     width: 95%;
     background-color: #fae8cc;
@@ -93,7 +93,7 @@ section {
 
 
 
-article {
+.article {
     background-color: #ffffff;
     text-align: center;
     font-size: 18px;
