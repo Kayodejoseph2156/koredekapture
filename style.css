@@ -58,9 +58,8 @@ b {
     color: #000000;
 
     background-color: #dd9898; 
-    margin-left: auto;
-    margin-right: auto;
-    padding: 15px;
+    
+    
 
 }
 
@@ -78,13 +77,14 @@ h4 {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    font-size: 10px;
+    font-size: 20px;
     border-radius: 25px;
     padding: 15px;
 }
 
 section {
     display: block;
+    width: 95%
     background-color: #fae8cc;
     text-align: center;
     margin-left: auto;
@@ -99,9 +99,6 @@ article {
     font-size: 18px;
 }
 
-b {
-    background-color: #fff;
-}
 
 footer {
       width: 100%;
