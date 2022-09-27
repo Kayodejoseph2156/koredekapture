@@ -54,7 +54,7 @@ p {
 
 b {
     text-align: center;
-   
+   font-size: 10px;
     color: #000000;
 
     background-color: #dd9898; 
@@ -84,7 +84,7 @@ h4 {
 
 section {
     display: block;
-    width: 95%
+    width: 95%;
     background-color: #fae8cc;
     text-align: center;
     margin-left: auto;
