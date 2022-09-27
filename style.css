@@ -10,6 +10,7 @@ body {
 .container {
     background-color: #fae8cc;
     text-align: center;
+    width: 90%
     margin-left: auto;
     margin-right: auto;
 }
@@ -17,49 +18,47 @@ body {
 
 h1 {
     color: #000000;
-    font-size: 50px;
-    f0nt-weight: 600;
+    font-size: 30px;
 }
 
 hr {
     background-color: #0af7f7;
     color:#0af7f7;
-    height: 10px;
     border-width: 0;
 }
 
  h2 {
     color: #b16969;
-    font-size: 45px;
+    font-size: 18px;
     padding: 15px;
 }
 
 h3 {
-    font-size: 45px;
+    font-size: 15px;
     color:#000000 ;
     padding: 15px;
 }
 
 h6 {
-    font-size: 45px;
+    font-size: 15px;
     color: #486906;
-    padding: 25px;
+    padding: 8px;
 }
 
 p {
-    font-size: 45px;
+    font-size: 15px;
     color: #000000
 }
 
 b {
     text-align: center;
-    font-size: 50px;
+    font-size: 20px;
     color: #000000;
     width: 100%;
     background-color: #dd9898; 
     margin-left: auto;
     margin-right: auto;
-    padding: 15px;
+    padding: 8px;
 
 }
 
@@ -73,13 +72,13 @@ img {
 
 h4 {
     background-color: #dd9898;
-    width: 15%;
+    width: 25%;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    font-size: 50px;
+    font-size: 20px;
     border-radius: 25px;
-    padding: 15px;
+    padding: 8px;
 }
 
 section {
@@ -95,7 +94,7 @@ section {
 article {
     background-color: #ffffff;
     text-align: center;
-    font-size: 50%;
+    font-size: 20px;
 }
 
 b {
@@ -104,7 +103,7 @@ b {
 
 footer {
       width: 100%;
-      font-size: 35px;
+      font-size: 20px;
       background-color: #dd9898;
       text-align: center;
 }
