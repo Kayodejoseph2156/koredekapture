@@ -3,16 +3,16 @@
 body {
     background-color: #ffffff;
     width: 95%;
-    margin: 0;
+    margin: auto;
 
 }
  
 .container {
     background-color: #fae8cc;
     text-align: center;
-    width: 90%
-    margin-left: auto;
-    margin-right: auto;
+    width: 95%
+    margin-left: 0;
+    margin-right: 0;
 }
 
 
@@ -140,13 +140,13 @@ nav {
 nav .logo {
     display: flex;
     align-items: center;
-    margin: 0 35px;
+    margin: 0 25px;
 }
 
 .logo .menu-icon {
     color: #000000;
-    font-size: 80px;
-    margin-left: 180px;
+    font-size: 40px;
+    
     cursor: pointer;
 }
 
