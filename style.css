@@ -11,9 +11,7 @@ body {
     background-color: #fae8cc;
     text-align: center;
     width: 95%
-    margin-left: 0;
-    margin-right: 0;
-}
+    
 
 
 h1 {
@@ -139,13 +137,14 @@ nav {
 
 nav .logo {
     display: flex;
-    align-items: center;
+    align-items: left;
     margin: 0 25px;
 }
 
 .logo .menu-icon {
     color: #000000;
-    font-size: 40px;
+    font-size: 30px;
+    
     
     cursor: pointer;
 }
@@ -172,7 +171,7 @@ nav.open .sidebar {
 }
 .sidebar-content .list {
     list-style: none;
-    padding-left: 35px;
+    padding-left: 20px;
 }
 
 .list .nav-link {
@@ -194,7 +193,7 @@ nav.open .sidebar {
 }
 
 .nav-link .icon {
-    margin-right: 16px ;
+    margin-right: 40px ;
     font-size: 50px;
     color: #000000;
 }
@@ -202,7 +201,6 @@ nav.open .sidebar {
 .nav-link .link {
     font-size: 40px;
     color: #000000;
-    font-weight: 500;
 }
 
 .overlay {
