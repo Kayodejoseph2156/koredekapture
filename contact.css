@@ -114,7 +114,6 @@ footer {
 }
 
 
-
 @import url('https://fonts.googleapis.com/css2?family=avenir:wght@300&display=swap');
 
 *{
@@ -227,5 +226,7 @@ nav.open ~ .overlay {
     left: 750px;
     pointer-events: auto;
 }
+
+
 
 
