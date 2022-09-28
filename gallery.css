@@ -50,12 +50,12 @@ h3 {
 .section {
     text-align: center;
     color: #000000;
-    font-size: 40px;
+    font-size: 35px;
     bacground-color: #c4954e;
     margin-left: auto;
     margin-right: auto;
     padding: 20px;
-    width: 50%;
+    width: 100%;
 }
 
 h6 {
