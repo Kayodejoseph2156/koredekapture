@@ -54,7 +54,7 @@ h6 {
 h1 {
     text-align: center;
     color: #909024;
-    font-size: 30px;
+    font-size: 50px;
 }
 
 h5 {
@@ -66,23 +66,23 @@ h5 {
 h3 {
   text-align: center;
   color: #000000;
-  font-size: 35px;
+  font-size: 45px;
   background: #dfc596;
-  width: 45%;
+  width: 50%;
   margin-left: auto;
   margin-right: auto;
 }
 
 p {
-  font-size: 35px;
+  font-size: 45px;
   color: #000000;
 }
 
 h4{
   text-align: center;
   color: #000000;
-  font-size: 45px;
-  width: 25%;
+  font-size: 55px;
+  width: 35%;
   margin-left: auto;
   margin-right: auto;
   background-color: #dd9898;
@@ -103,14 +103,14 @@ hr {
 
 b {
   color: #fff;
-  font-size: 20px;
+  font-size: 40px;
 }
 
 footer {
     width: 100%;
     background-color: #db9615;
     text-align: center;
-    padding: 10px;
+    padding: 20px;
 }
 
 
