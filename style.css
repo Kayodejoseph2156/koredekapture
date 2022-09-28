@@ -52,17 +52,6 @@ p {
     color: #000000;
 }
 
-b {
-    text-align: center;
-   font-size: 10px;
-    color: #000000;
-
-    background-color: #dd9898; 
-    
-    
-
-}
-
 
 img {
     display: block;
@@ -99,6 +88,11 @@ h4 {
     font-size: 18px;
 }
 
+b {
+    text-align; center;
+    color: #fff;
+    font-size: 10px
+}
 
 footer {
       width: 100%;
@@ -106,7 +100,6 @@ footer {
       background-color: #dd9898;
       text-align: center;
 }
-
 
 
 
