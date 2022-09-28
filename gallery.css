@@ -47,10 +47,10 @@ h3 {
     
 }
 
-h5 {
+section {
     text-align: center;
     color: #000000;
-    font-size: 30px;
+    font-size: 40px;
     bacground-color: #c4954e;
     margin-left: auto;
     margin-right: auto;
@@ -112,15 +112,16 @@ article {
 }
 
 b {
-    background-color: #fff;
-    font-size: 18px
+    text-align; center;
+    color: #fff;
+    font-size: 10px
 }
 
-footer  {
+footer {
       width: 100%;
-      background-color: #c4954e;
+    
+      background-color: #dd9898;
       text-align: center;
-      padding: 8px;
 }
 
 
