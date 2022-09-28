@@ -1,9 +1,9 @@
-* {
-    font-family: 'Poppins', sans-serif;
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-weight: 400;
+body {
+    font-family: 'Times New Roman', Times, serif;
+  font-size: 50px;
+  background-color: #fff;
+  width: 100%;
+  margin: auto;
 }
 
 .joe {
@@ -74,7 +74,7 @@ h3 {
 }
 
 p {
-  font-size: 30px;
+  font-size: 35px;
   color: #000000;
 }
 
@@ -102,14 +102,15 @@ hr {
 
 
 b {
-  background-color: #fff;
-  font-size: 10px;
+  color: #fff;
+  font-size: 15px;
 }
 
 footer {
     width: 100%;
     background-color: #db9615;
     text-align: center;
+    padding: 8px;
 }
 
 
