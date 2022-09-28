@@ -74,7 +74,7 @@ h3 {
 }
 
 p {
-  font-size: 45px;
+  font-size: 40px;
   color: #000000;
 }
 
@@ -103,14 +103,14 @@ hr {
 
 b {
   color: #fff;
-  font-size: 40px;
+  font-size: 18px;
 }
 
 footer {
     width: 100%;
     background-color: #db9615;
     text-align: center;
-    padding: 20px;
+    padding: 12px;
 }
 
 
