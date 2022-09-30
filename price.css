@@ -297,10 +297,9 @@ nav {
     position: fixed;
     top: 0;
     left: 0;
-    height: 150px;
+    height: 200px;
     width: 100%;
     display: flex;
-    z-index: 10000;
     align-items: center;
     background: #fff;
     box-shadow: 0 0 1px rgba(0, 0, 0, 0.1);
@@ -315,7 +314,7 @@ nav .logo {
 .logo .menu-icon {
     color: #000000;
     font-size: 70px;
-    margin-right: 18px;
+    margin-right: 20px;
     cursor: pointer;
 }
 
@@ -363,15 +362,16 @@ nav.open .sidebar {
 }
 
 .nav-link .icon {
-    margin-right: 16px ;
-    font-size: 35px;
+    margin-right: 25px ;
+    font-size: 55px;
     color: #000000;
 }
 
 .nav-link .link {
-    font-size: 35px;
+    font-size: 40px;
     color: #000000;
     font-weight: 400;
+    padding-left: 50px;
 }
 
 .overlay {
@@ -392,5 +392,3 @@ nav.open ~ .overlay {
     pointer-events: auto;
 }
 
-
-}
