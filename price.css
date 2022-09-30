@@ -300,6 +300,7 @@ nav {
     height: 150px;
     width: 100%;
     display: flex;
+    z-index: 10000;
     align-items: center;
     background: #fff;
     box-shadow: 0 0 1px rgba(0, 0, 0, 0.1);
