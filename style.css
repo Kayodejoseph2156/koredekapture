@@ -188,14 +188,15 @@ nav.open .sidebar {
 
 .nav-link .icon {
     margin-right: 16px ;
-    font-size: 35px;
+    font-size: 45px;
     color: #000000;
 }
 
 .nav-link .link {
-    font-size: 35px;
+    font-size: 40px;
     color: #000000;
     font-weight: 400;
+    padding-left: 50px;
 }
 
 .overlay {
