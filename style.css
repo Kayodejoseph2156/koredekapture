@@ -141,6 +141,11 @@ nav .logo {
     margin-right: 20px;
     cursor: pointer;
 }
+@media  screen and (max-width:650px) {
+    allnav {
+        width: 100%;
+    }
+}
 
 nav .sidebar {
     position: fixed;
