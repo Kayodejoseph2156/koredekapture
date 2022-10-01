@@ -141,11 +141,6 @@ nav .logo {
     margin-right: 20px;
     cursor: pointer;
 }
-@media  screen and (max-width:650px) {
-    allnav {
-        width: 100%;
-    }
-}
 
 nav .sidebar {
     position: fixed;
@@ -157,6 +152,12 @@ nav .sidebar {
     background-color: gray;
     transition: all 0.3s ease;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3); 
+}
+
+@media  screen and (max-width:1024px) {
+    nav .sidebar {
+        max-width: 200px;
+     }
 }
 
 nav.open .sidebar {
@@ -189,6 +190,7 @@ nav.open .sidebar {
     background-color:#71712f;
     transition: 0.4s ease;
 }
+     
 
 .nav-link .icon {
     margin-right: 25px ;
