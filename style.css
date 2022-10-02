@@ -196,7 +196,7 @@ nav.open .sidebar {
      
 
 .nav-link .icon {
-    margin-right: 50px ;
+    margin-right: 30px ;
     font-size: 10px;
     color: #000000;
 }
@@ -205,7 +205,7 @@ nav.open .sidebar {
     font-size: 15px;
     color: #000000;
     font-weight: 300;
-    margin-left: 45px;
+    margin-right: 45px;
 }
 
 .overlay {
