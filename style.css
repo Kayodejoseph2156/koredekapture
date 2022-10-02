@@ -62,13 +62,13 @@ img {
 
 h4 {
     background-color: #dd9898;
-    width: 30%;
+    width: 35%;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    font-size: 30px;
+    font-size: 20px;
     border-radius: 25px;
-    padding: 20px;
+    padding: 12px;
 }
 
 .section {
