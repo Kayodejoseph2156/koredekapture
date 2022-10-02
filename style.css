@@ -1,13 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=avenir:wght@300&display=swap');
-
-body {
+@media  only screen and (max-device-width: 480px) {
+    
+       
+    body {max-device: 200px;
     font-family: 'Times New Roman', Times, serif;
     background-color: #ffffff;
     width: 100%;
     margin: auto;
 
+     }
 }
- 
+
 .container {
     background-color: #fae8cc;
     text-align: center;
@@ -154,7 +157,7 @@ nav .sidebar {
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); 
 }
 
-@media  only screen and (max-device: 480px) {
+@media  only screen and (max-device-width: 480px) {
     nav .sidebar {
         max-device: 200px;
      }
