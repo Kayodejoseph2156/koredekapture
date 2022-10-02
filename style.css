@@ -181,7 +181,7 @@ nav.open .sidebar {
     align-items: center;
     padding: 7px 0;
     text-decoration: none;
-    border-radius: 25px;
+    border-radius: 15px;
 }
 
 .nav-link:hover {
@@ -196,7 +196,7 @@ nav.open .sidebar {
      
 
 .nav-link .icon {
-    margin-left: 30px ;
+    margin-left: 45px ;
     font-size: 10px;
     color: #000000;
 }
