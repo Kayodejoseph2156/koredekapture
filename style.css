@@ -66,9 +66,9 @@ h4 {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    font-size: 20px;
+    font-size: 15px;
     border-radius: 25px;
-    padding: 12px;
+    padding: 10px;
 }
 
 .section {
@@ -121,7 +121,7 @@ nav {
     position: fixed;
     top: 0;
     left: 0;
-    height: 48px;
+    height: 50px;
     width: 100%;
     display: flex;
     align-items: center;
@@ -151,12 +151,12 @@ nav .sidebar {
     padding: 8px 0;
     background-color: gray;
     transition: all 0.3s ease;
-    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3); 
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); 
 }
 
-@media  screen and (max-width: 450px) {
+@media  only screen and (max-device: 480px) {
     nav .sidebar {
-        max-width: 200px;
+        max-device: 200px;
      }
 }
 
@@ -166,17 +166,17 @@ nav.open .sidebar {
 
 }
 .sidebar .sidebar-content {
-    padding: 15px 5px;
+    padding: 10px 5px;
 }
 .sidebar-content .list {
     list-style: none;
-    padding-right: 30px;
+    padding-right: 40px;
 }
 
 .list .nav-link {
     display: flex;
     align-items: center;
-    padding: 10px 2px;
+    padding: 10px 0;
     text-decoration: none;
     border-radius: 25px;
 }
@@ -194,15 +194,15 @@ nav.open .sidebar {
 
 .nav-link .icon {
     margin-right: 50px ;
-    font-size: 15px;
+    font-size: 10px;
     color: #000000;
 }
 
 .nav-link .link {
-    font-size: 20px;
+    font-size: 15px;
     color: #000000;
     font-weight: 300;
-    padding-right: 45px;
+    padding-left: 45px;
 }
 
 .overlay {
@@ -219,7 +219,7 @@ nav.open .sidebar {
 
 nav.open ~ .overlay {
     opacity: -1;
-    left: 750px;
+    left: 900px;
     pointer-events: auto;
 }
 
