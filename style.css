@@ -173,7 +173,7 @@ nav.open .sidebar {
 }
 .sidebar-content .list {
     list-style: none;
-    padding-right: 30px;
+    margin-right: 30px;
 }
 
 .list .nav-link {
