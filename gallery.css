@@ -16,7 +16,7 @@
 
 @media  screen and (max-width:468px) {
     .allColumns {
-        width: 25%;
+        width: 50%;
     }
 }
 
@@ -58,15 +58,21 @@ h3 {
     width: 100%;
 }
 
+
+h5 {
+    font-size: 20px; 
+    color: #000000;
+}
+
 h6 {
-    font-size: 20px;
+    font-size: 25px;
     color: #000000;
     text-align: center;
     width: 35%;
     background-color: #f09000;
     margin-left: auto;
     margin-right: auto;
-    border-radius: 25px;
+    border-radius: 15px;
 }
 
 u {
