@@ -37,13 +37,13 @@
 
 
 .box h5 {
-    font-size: 30px;
-    margin-bottom: 18px;
+    font-size: 25px;
+    margin-bottom: 12px;
     color: #000000;
 }
 
 .box h2 {
-    font-size: 35px;
+    font-size: 20px;
     margin-bottom: 12px;
     color: #0000ff;
     font-weight: 500;
@@ -55,7 +55,7 @@
 }
 .box h6 {
     font-size:15px;
-    padding: 25px;
+    padding: 15px;
     color: #000000;
     
 }
@@ -76,8 +76,8 @@
 
 .ribbon-wrap::before, .ribbon-wrap::after {
     content: "";
-    width: 10px;
-    height: 10px;
+    width: 5px;
+    height: 5px;
     background: #000fff;
     position: absolute;
     z-index: -1;
@@ -94,8 +94,8 @@
 }
 
 .ribbon {
-      width: 125px;
-      font-size: 18px;
+      width: 75px;
+      font-size: 10px;
       text-align: center;
       padding: 8px 0;
       background-color: #000fff;
