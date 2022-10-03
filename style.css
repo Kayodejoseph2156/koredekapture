@@ -169,7 +169,7 @@ nav.open .sidebar {
 
 }
 .sidebar .sidebar-content {
-    padding: 10px 5px;
+    padding: 6px 2px;
 }
 .sidebar-content .list {
     list-style: none;
@@ -196,7 +196,7 @@ nav.open .sidebar {
      
 
 .nav-link .icon {
-    margin-right: 12px ;
+    margin-left: 12px ;
     font-size: 10px;
     color: #000000;
 }
