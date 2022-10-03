@@ -14,9 +14,9 @@
     display: table;
 }
 
-@media  screen and (max-width:768px) {
+@media  screen and (max-width:468px) {
     .allColumns {
-        width: 100%;
+        width: 50%;
     }
 }
 
@@ -219,7 +219,7 @@ nav.open .sidebar {
 
 .nav-link .icon {
     margin-right: 12px ;
-    font-size: 10px;
+    font-size: 5px;
     color: #000000;
 }
 
