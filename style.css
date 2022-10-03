@@ -173,7 +173,7 @@ nav.open .sidebar {
 }
 .sidebar-content .list {
     list-style: none;
-    margin-right: 30px;
+    margin-right: 20px;
 }
 
 .list .nav-link {
@@ -196,7 +196,7 @@ nav.open .sidebar {
      
 
 .nav-link .icon {
-    margin-left: 45px ;
+    margin-left: 35px ;
     font-size: 10px;
     color: #000000;
 }
@@ -205,7 +205,7 @@ nav.open .sidebar {
     font-size: 15px;
     color: #000000;
     font-weight: 300;
-    margin-right: 45px;
+    margin-right: 25px;
 }
 
 .overlay {
