@@ -1,6 +1,13 @@
-* {
-    font-family: 'Poppins', sans-serif;
-    box-sizing: border-box;
+@media  only screen and (max-device-width: 480px) {
+    
+       
+    body {max-device: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #ffffff;
+    width: 100%;
+    margin: auto;
+
+     }
 }
 
 .hero {
@@ -214,19 +221,19 @@
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    font-size: 40px;
-    border-radius: 25px;
+    font-size: 35px;
+    border-radius: 20px;
 }
 
 .art h2 {
-    font-size: 35px;
+    font-size: 30px;
     color: #486906;
     text-align: center;
     
 }
 
 .art h5 { 
-    font-size: 20px;
+    font-size: 15px;
     color: #000000;
     text-align: center;
 
@@ -297,6 +304,7 @@ nav {
     left: 0;
     height: 50px;
     width: 100%;
+    z-index: 10000;
     display: flex;
     align-items: center;
     background: #fff;
