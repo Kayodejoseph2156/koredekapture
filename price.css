@@ -56,14 +56,14 @@
 }
 .box h6 {
     font-size:15px;
-    margin-bottom: 30px;
+    margin-bottom: 35px;
     color: #000000;
     
 }
 
 .box p {
     font-size: 10px;
-    margin-bottom: 32px;
+    margin-bottom: 35px;
 }
 
 .ribbon-wrap {
@@ -96,7 +96,7 @@
 
 .ribbon {
       width: 100px;
-      font-size: 10px;
+      font-size: 8px;
       text-align: center;
       padding: 8px 0;
       background-color: #000fff;
