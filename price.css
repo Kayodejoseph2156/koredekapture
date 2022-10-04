@@ -67,12 +67,12 @@
 }
 
 .ribbon-wrap {
-    width: 95px;
-    height: 95px;
+    width: 100px;
+    height: 100px;
     overflow: hidden;
     position: absolute;
-    top: -10px;
-    left: -10px;
+    top: -5px;
+    left: -5px;
 }
 
 .ribbon-wrap::before, .ribbon-wrap::after {
@@ -103,7 +103,7 @@
       color: #fff;
       position: absolute;
       transform: rotate(-45deg);
-      right: -17%;
+      right: -12%;
       top: 29%;
 }
 
