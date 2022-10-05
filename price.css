@@ -78,8 +78,8 @@
 
 .ribbon-wrap::before, .ribbon-wrap::after {
     content: "";
-    width: 5px;
-    height: 5px;
+    width: 2px;
+    height: 2px;
     background: #000fff;
     position: absolute;
     z-index: -1;
@@ -104,7 +104,7 @@
       color: #fff;
       position: absolute;
       transform: rotate(-45deg);
-      right: -12%;
+      right: -17%;
       top: 29%;
 }
 
