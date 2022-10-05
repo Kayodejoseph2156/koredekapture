@@ -72,8 +72,8 @@
     height: 80px;
     overflow: hidden;
     position: absolute;
-    top: -3px;
-    left: -3px;
+    top: -5px;
+    left: -5px;
 }
 
 .ribbon-wrap::before, .ribbon-wrap::after {
@@ -136,14 +136,14 @@
 
 .square h5 {
     font-size: 10px;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
     color: #000000;
     text-align: center;
 }
 
 .square h2 {
     font-size: 20px;
-    margin-bottom: 42px;
+    margin-bottom: 45px;
     color: #0000ff;
     font-weight: 500;
 }
@@ -154,14 +154,14 @@
 }
 .square h6 {
     font-size:15px;
-    margin-bottom: 42px;
+    margin-bottom: 45px;
     color: #000000;
     
 }
 
 .square p {
     font-size: 10px;
-    margin-bottom: 42px;
+    margin-bottom: 45px;
 }
 
 
@@ -192,14 +192,14 @@
 
 .cross h5 {
     font-size: 10px;
-    margin-bottom: 40px;
+    margin-bottom: 45px;
     color: #000000;
     text-align: center;
 }
 
 .cross h2 {
     font-size: 20px;
-    margin-bottom: 45px;
+    margin-bottom: 55px;
     color: #0000ff;
     font-weight: 500;
 }
@@ -210,14 +210,14 @@
 }
 .cross h6 {
     font-size:15px;
-    margin-bottom: 45px;
+    margin-bottom: 55px;
     color: #000000;
     
 }
 
 .cross p {
     font-size: 10px;
-    margin-bottom: 45px;
+    margin-bottom: 55px;
 }
 
 
