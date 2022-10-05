@@ -182,7 +182,7 @@ nav .sidebar {
     padding: 8px 0;
     background-color: gray;
     transition: all 0.3s ease;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); 
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); 
 }
 
 @media screen and (max-width: 480px) {
@@ -224,16 +224,16 @@ nav.open .sidebar {
      
 
 .nav-link .icon {
-    margin-left: 5px ;
-    font-size: 5px;
+    margin-left: 12px ;
+    font-size: 10px;
     color: #000000;
 }
 
 .nav-link .link {
     font-size: 15px;
     color: #000000;
-    font-weight: 400;
-    margin-right: 10px;
+    font-weight: 300;
+    margin-right: 20px;
 }
 
 .overlay {
@@ -245,11 +245,12 @@ nav.open .sidebar {
     opacity: 0;
     pointer-events: none;
     transition: all 0.3s ease;
-    background: rgba(0, 0, 0, 0.2);
+    background: rgba(0, 0, 0, 0.3);
 }
 
 nav.open ~ .overlay {
-    opacity: -1;
+    opacity: 1;
     left: 900px;
     pointer-events: auto;
 }
+
