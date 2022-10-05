@@ -69,7 +69,7 @@ h6 {
     font-size: 25px;
     color: #000000;
     text-align: center;
-    width: 35%;
+    width: 42%;
     background-color: #f09000;
     margin-left: auto;
     margin-right: auto;
@@ -224,7 +224,7 @@ nav.open .sidebar {
      
 
 .nav-link .icon {
-    margin-left: 12px ;
+    margin-left: 5px ;
     font-size: 5px;
     color: #000000;
 }
@@ -232,8 +232,8 @@ nav.open .sidebar {
 .nav-link .link {
     font-size: 15px;
     color: #000000;
-    font-weight: 300;
-    margin-right: 20px;
+    font-weight: 400;
+    margin-right: 40px;
 }
 
 .overlay {
