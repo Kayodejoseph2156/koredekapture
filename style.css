@@ -154,7 +154,7 @@ nav .sidebar {
     padding: 8px 0;
     background-color: gray;
     transition: all 0.3s ease;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3); 
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); 
 }
 
 @media screen and (max-width: 480px) {
@@ -217,11 +217,11 @@ nav.open .sidebar {
     opacity: 0;
     pointer-events: none;
     transition: all 0.3s ease;
-    background: rgba(0, 0, 0, 0.2);
+    background: rgba(0, 0, 0, 0.3);
 }
 
 nav.open ~ .overlay {
-    opacity: -1;
+    opacity: 1;
     left: 900px;
     pointer-events: auto;
 }
