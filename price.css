@@ -72,8 +72,8 @@
     height: 80px;
     overflow: hidden;
     position: absolute;
-    top: -7px;
-    left: -7px;
+    top: -6px;
+    left: -6px;
 }
 
 .ribbon-wrap::before, .ribbon-wrap::after {
