@@ -72,8 +72,8 @@
     height: 80px;
     overflow: hidden;
     position: absolute;
-    top: -7px;
-    left: -7px;
+    top: -18px;
+    left: -8px;
 }
 
 .ribbon-wrap::before, .ribbon-wrap::after {
@@ -96,14 +96,14 @@
 }
 
 .ribbon {
-      width: 140px;
+      width: 190px;
       font-size: 7px;
       text-align: center;
       padding: 6px 0;
       background-color: #000fff;
       color: #fff;
       position: absolute;
-      transform: rotate(-47deg);
+      transform: rotate(-45deg);
       right: -17%;
       top: 29%;
 }
