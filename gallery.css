@@ -245,7 +245,7 @@ nav.open .sidebar {
 }
 
 nav.open ~ .overlay {
-    opacity: 1;
+    opacity: -1;
     left: 900px;
     pointer-events: auto;
 }
