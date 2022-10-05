@@ -78,11 +78,11 @@
 
 .ribbon-wrap::before, .ribbon-wrap::after {
     content: "";
-    width: 2px;
-    height: 2px;
+    width: 5px;
+    height: 5px;
     background: #000fff;
     position: absolute;
-    z-index: -1;
+    z-index: -3;
 }
 
 .ribbon-wrap::before {
