@@ -72,8 +72,8 @@
     height: 80px;
     overflow: hidden;
     position: absolute;
-    top: -5px;
-    left: -5px;
+    top: -7px;
+    left: -7px;
 }
 
 .ribbon-wrap::before, .ribbon-wrap::after {
@@ -96,14 +96,14 @@
 }
 
 .ribbon {
-      width: 100px;
+      width: 140px;
       font-size: 7px;
       text-align: center;
-      padding: 5px 0;
+      padding: 6px 0;
       background-color: #000fff;
       color: #fff;
       position: absolute;
-      transform: rotate(-45deg);
+      transform: rotate(-47deg);
       right: -17%;
       top: 29%;
 }
@@ -217,7 +217,7 @@
 
 .cross p {
     font-size: 10px;
-    margin-bottom: 55px;
+    margin-bottom: 5px;
 }
 
 
