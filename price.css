@@ -82,7 +82,7 @@
     height: 7px;
     background: #000fff;
     position: absolute;
-    z-index: -3;
+    z-index: -1;
 }
 
 .ribbon-wrap::before {
@@ -104,7 +104,7 @@
       color: #fff;
       position: absolute;
       transform: rotate(-45deg);
-      right: -13%;
+      right: -19%;
       top: 29%;
 }
 
