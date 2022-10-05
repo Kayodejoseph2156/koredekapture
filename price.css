@@ -135,32 +135,33 @@
 }
 
 .square h5 {
-    font-size: 30px;
-    margin-bottom: 18px;
+    font-size: 10px;
+    margin-bottom: 25px;
     color: #000000;
+    text-align: center;
 }
 
 .square h2 {
-    font-size: 35px;
-    margin-bottom: 22px;
+    font-size: 20px;
+    margin-bottom: 36px;
     color: #0000ff;
-    font-weight: 600;
+    font-weight: 500;
 }
 
 .square h2 span {
-      font-size: 25px;
+      font-size: 15px;
       color: #000000;
 }
 .square h6 {
     font-size:15px;
-    padding: 25px;
+    margin-bottom: 35px;
     color: #000000;
     
 }
 
 .square p {
-    font-size: 15px;
-    padding: 15px;
+    font-size: 10px;
+    margin-bottom: 35px;
 }
 
 
@@ -190,34 +191,34 @@
 }
 
 .cross h5 {
-    font-size: 30px;
-    margin-bottom: 18px;
+    font-size: 10px;
+    margin-bottom: 25px;
     color: #000000;
+    text-align: center;
 }
 
 .cross h2 {
-    font-size: 35px;
-    margin-bottom: 22px;
+    font-size: 20px;
+    margin-bottom: 36px;
     color: #0000ff;
-    font-weight: 600;
+    font-weight: 500;
 }
 
 .cross h2 span {
-      font-size: 25px;
+      font-size: 15px;
       color: #000000;
 }
 .cross h6 {
     font-size:15px;
-    padding: 25px;
+    margin-bottom: 35px;
     color: #000000;
     
 }
 
 .cross p {
-    font-size: 15px;
-    padding: 15px;
+    font-size: 10px;
+    margin-bottom: 35px;
 }
-
 
 
 .art h1 {
