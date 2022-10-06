@@ -143,7 +143,7 @@
 
 .square h2 {
     font-size: 20px;
-    margin-bottom: 96px;
+    margin-bottom: 76px;
     color: #0000ff;
     font-weight: 500;
 }
@@ -154,14 +154,14 @@
 }
 .square h6 {
     font-size:15px;
-    margin-bottom: 80px;
+    margin-bottom: 60px;
     color: #000000;
     
 }
 
 .square p {
     font-size: 10px;
-    margin-bottom: 75px;
+    margin-bottom: 55px;
 }
 
 
@@ -199,7 +199,7 @@
 
 .cross h2 {
     font-size: 20px;
-    margin-bottom: 100px;
+    margin-bottom: 80px;
     color: #0000ff;
     font-weight: 500;
 }
@@ -210,18 +210,18 @@
 }
 .cross h6 {
     font-size:15px;
-    margin-bottom: 95px;
+    margin-bottom: 75px;
     color: #000000;
     
 }
 
 .cross p {
     font-size: 10px;
-    margin-bottom: 85px;
+    margin-bottom: 65px;
 }
 
 
- h1 {
+ .art h1 {
     background-color: #dd9898;;
     width: 45%;
     text-align: center;
