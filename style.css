@@ -168,7 +168,7 @@ nav.open .sidebar {
 }
 
 .sidebar .sidebar-content {
-    padding: 28px 14px;
+    padding: 22px 10px;
 }
 .sidebar-content .list {
     list-style: none;
@@ -194,7 +194,6 @@ nav.open .sidebar {
      
 
 .nav-link .icon {
-    margin-left: 12px ;
     font-size: 10px;
     color: #000000;
 }
