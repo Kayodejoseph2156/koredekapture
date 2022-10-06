@@ -172,7 +172,7 @@ nav.open .sidebar {
 }
 
 .sidebar .sidebar-content {
-    padding: 28px 14px;
+    padding: 10px 4px;
 }
 .sidebar-content .list {
     list-style: none;
@@ -198,7 +198,6 @@ nav.open .sidebar {
      
 
 .nav-link .icon {
-    margin-left: 12px ;
     font-size: 10px;
     color: #000000;
 }
@@ -207,6 +206,7 @@ nav.open .sidebar {
     font-size: 15px;
     color: #000000;
     font-weight: 400;
+    padding-left: 25px;
 }
 
 .overlay {
@@ -226,3 +226,4 @@ nav.open ~ .overlay {
     left: 900px;
     pointer-events: auto;
 }
+
