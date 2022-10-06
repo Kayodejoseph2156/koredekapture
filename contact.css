@@ -67,7 +67,7 @@ h3 {
   font-size: 20px;
   background: #dfc596;
   width: 45%;
-  padding: 20px;
+  padding: 5px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -94,7 +94,6 @@ article {
  
 hr {
   background-color: #0af7f7;
-    color:#0af7f7;
     height: 6px;
     border-width: 0;
 }
