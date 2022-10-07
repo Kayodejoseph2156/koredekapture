@@ -143,7 +143,7 @@
 
 .square h2 {
     font-size: 20px;
-    
+    margin-bottom: 38px;
     color: #0000ff;
     font-weight: 500;
 }
@@ -154,14 +154,14 @@
 }
 .square h6 {
     font-size:15px;
-
+    marging-bottom: 15px;
     color: #000000;
     
 }
 
 .square p {
     font-size: 10px;
-
+    margin-bottom: 10px;
 }
 
 
@@ -199,7 +199,7 @@
 
 .cross h2 {
     font-size: 20px;
-    
+    margin-bottom: 35px;
     color: #0000ff;
     font-weight: 500;
 }
@@ -217,6 +217,7 @@
 
 .cross p {
     font-size: 10px;
+    marging-bottom: 15px;
   
 }
 
@@ -236,12 +237,12 @@
 
 .art h4 {
     background-color: pink;
-    width: 38%;
+    width: 35%;
     color: #000000;
     text-align: center;
     margin-left: auto;
     margin-right: auto;
-    font-size: 24px;
+    font-size: 20px;
     border-radius: 20px;
 }
 
