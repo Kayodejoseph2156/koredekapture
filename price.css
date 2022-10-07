@@ -133,7 +133,35 @@
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
     color: #555;
 }
+.square h5 {
+    font-size: 10px;
+    margin-bottom: 25px;
+    color: #000000;
+    text-align: center;
+}
 
+.square h2 {
+    font-size: 20px;
+    margin-bottom: 36px;
+    color: #0000ff;
+    font-weight: 500;
+}
+
+.square h2 span {
+      font-size: 15px;
+      color: #000000;
+}
+.square h6 {
+    font-size:15px;
+    margin-bottom: 35px;
+    color: #000000;
+    
+}
+
+.squrae p {
+    font-size: 10px;
+    margin-bottom: 35px;
+}
 
 
 /*styling the class section*/
@@ -161,32 +189,32 @@
     color: #555;
 }
 
-.box h5 {
+.cross h5 {
     font-size: 10px;
    
     color: #000000;
     text-align: center;
 }
 
-.box h2 {
+.cross h2 {
     font-size: 20px;
 
     color: #0000ff;
     font-weight: 500;
 }
 
-.box h2 span {
+.cross h2 span {
       font-size: 15px;
       color: #000000;
 }
-.box h6 {
+.cross h6 {
     font-size:15px;
     margin-bottom: 35px;
     color: #000000;
     
 }
 
-.box p {
+.cross p {
     font-size: 10px;
     margin-bottom: 35px;
 }
