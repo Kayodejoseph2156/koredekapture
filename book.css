@@ -1,6 +1,6 @@
 body {
   font-family: 'poppins', san-serif;
-  font-size: 2rem;
+  font-size: 1rem;
   font-weight: 300;
   background-color: #f0f8ff; 
 }
@@ -8,7 +8,7 @@ body {
 h1 {
   background-color: #5959e1;
   text-align: center;
-  font-size: 45px;
+  font-size: 25px;
   font-weight: 500;
   min-height: 60px;
 }
@@ -20,7 +20,7 @@ p {
 
 h3 {
   text-align: center;
-  font-size: 30px;
+  font-size: 20px;
   color: #000000;
 }
 
@@ -30,7 +30,7 @@ h3 {
  
 label {
   display: flex;
-  font-size: 2.55rem;
+  font-size: 15px;
   margin-bottom: 0.5rem;
   align-items: center;
 }
@@ -39,7 +39,7 @@ form {
   background-color: #fff;
   text-align: center;
   padding: 2.5rem 0.625rem;
-  width: 70%;
+  width: 85%;
   align-items: center;
   margin: 50px auto;
   border-radius: 0.25rem;
@@ -62,7 +62,7 @@ button {
 
 form-group {
   margin: 0 auto 1.25rem auto;
-  padding: 0.15rem;
+  padding: 10px;
   font-size: 20px;
   
 }
@@ -81,8 +81,7 @@ form-group {
 .input-checbox {
   display: inline-block;
   margin-right: 0.525rem;
-  min-height: 1.25rem;
-  min-width: 1.25rem;
+ 
 }
 
 .input-texterea {
@@ -96,7 +95,7 @@ form-group {
 .submit-button {
   display: inline-block;
   width: 100%;
-  font-size: 35px;
+  font-size: 25px;
   padding: 0.65rem;
   background-color: #dcdcdc;
   color: #5959e1;
