@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=avenir:wght@300&display=swap');
-@media  only screen and (max-device-width: 480px) {
+@media  screen and (max-width: 480px) {
     
        
     body {max-device: 200px;
@@ -157,7 +157,7 @@ nav .sidebar {
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); 
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 480px) {
     nav .sidebar {
         max-width: 200px;
      }
