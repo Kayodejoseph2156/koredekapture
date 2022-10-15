@@ -55,17 +55,9 @@
       font-size: 15px;
       color: #000000;
 }
-.box h6 {
-    font-size:15px;
-    margin-bottom: 5px;
-    color: #000000;
-    
-}
 
-.box p {
-    font-size: 10px;
-    margin-bottom: 35px;
-}
+
+
 
 .ribbon-wrap {
     width: 80px;
@@ -151,17 +143,6 @@
 .square h2 span {
       font-size: 15px;
       color: #000000;
-}
-.square h6 {
-    font-size:15px;
-    margin-bottom: 15px;
-    color: #000000;
-    
-}
-
-.square p {
-    font-size: 10px;
-
 }
 
 
