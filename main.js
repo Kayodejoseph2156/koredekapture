@@ -13,7 +13,7 @@ var form = document.getElementById("my-form");
       }).then(response => {
         if (response.ok) {
             status.classList.add('success')
-          status.innerHTML = "Thanks! call 08131858237 for comfirmation";
+          status.innerHTML = "Thanks! call +14372630808 for comfirmation";
           form.reset()
         } else {
           response.json().then(data => {
