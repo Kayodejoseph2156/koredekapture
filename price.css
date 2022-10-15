@@ -57,6 +57,7 @@
 }
 .box h6 {
     font-size:15px;
+    margin-bottom: 5px;
     color: #000000;
     
 }
@@ -153,7 +154,7 @@
 }
 .square h6 {
     font-size:15px;
-    margin-bottom: 35px;
+    margin-bottom: 15px;
     color: #000000;
     
 }
