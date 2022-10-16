@@ -57,12 +57,13 @@
 }
 
 .box h6 {
-  font-size:15px;
-  margin-bottom: ;
+  font-size: 15px;
+  margin-bottom: 35px ;
   color: #000000;
 }
 
 .box u {
+    font-size: 20px;
     font-weight: 400;
     color: #000000;
     margin-bottom: 35px;
@@ -159,7 +160,22 @@
       color: #000000;
 }
 
+.square h6 {
+  font-size:15px;
+  margin-bottom:35px ;
+  color: #000000;
+}
 
+.square u {
+    font-size: 20px;
+    font-eight: 400;
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+.square p {
+  font-size: 10px;
+}
 
 
 
@@ -208,19 +224,20 @@
 }
 .cross h6 {
     font-size:15px;
-    margin-bottom: ;
+    margin-bottom: 35px;
     color: #000000;
 }
 
-.box u {
+.cross u {
+    font-size: 20px;
     font-weight: 400;
     color: #000000;
-    margin-top: 25px;
+    margin-bottom: 25px;
 }
 
 .cross p {
     font-size: 10px;
-    margin-bottom: 35px;
+    
 }
 
 
