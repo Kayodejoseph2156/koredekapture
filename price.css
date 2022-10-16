@@ -58,14 +58,14 @@
 
 .box h6 {
   font-size: 15px;
-  margin-bottom: 35px ;
+  padding: 45px ;
   color: #000000;
 }
 
 .box u {
     font-size: 15px;
     font-weight: 500;
-    margin-bottom: 70px;
+    padding: 70px;
 }
 
 .box p {
