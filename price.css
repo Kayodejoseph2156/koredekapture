@@ -231,7 +231,8 @@
     font-size: 15px;
     font-weight: 500;
     color: #000000;
-    padding-top: 35px;
+    padding-top: auto;
+    padding-bottom: auto;
 }
 
 .cross p {
