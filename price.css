@@ -64,14 +64,13 @@
 
 .box u {
     font-size: 20px;
-    font-weight: 400;
+    font-weight: 500;
     color: #000000;
-    margin-bottom: 35px;
+    padding: 25px;
 }
 
 .box p {
   font-size: 10px;
-  margin-bottom: ;
 }  
 
 .ribbon-wrap {
@@ -168,9 +167,9 @@
 
 .square u {
     font-size: 20px;
-    font-eight: 400;
+    font-eight: 500;
     color: #000000;
-    margin-bottom: 20px;
+    padding: 25px;
 }
 
 .square p {
@@ -224,15 +223,15 @@
 }
 .cross h6 {
     font-size:15px;
-    margin-bottom: 35px;
+    padding-top: 25px;
     color: #000000;
 }
 
 .cross u {
     font-size: 20px;
-    font-weight: 400;
+    font-weight: 500;
     color: #000000;
-    margin-bottom: 25px;
+    padding-top: 25px;
 }
 
 .cross p {
