@@ -58,7 +58,7 @@
 
 .box h6 {
   font-size:15px;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
   color: #000000;
 }
 
@@ -156,7 +156,7 @@
 
 .square h6 {
   font-size:15px;
-  margin-bottom: 15px;
+  margin-bottom: 20px;
   color: #000000;
 }
 .square p {
@@ -209,7 +209,7 @@
 }
 .cross h6 {
     font-size:15px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     color: #000000;
     
 }
