@@ -56,7 +56,22 @@
       color: #000000;
 }
 
+.box h6 {
+  font-size: 15px;
+  margin-bottom: 35px ;
+  color: #000000;
+}
 
+.box u {
+    font-size: 15px;
+    font-weight: 500;
+    color: #000000;
+    padding-bottom: 70px;
+}
+
+.box p {
+  font-size: 10px;
+}  
 
 .ribbon-wrap {
     width: 80px;
