@@ -63,9 +63,9 @@
 }
 
 .box u {
-    font-size: 0;
+    font-size: 15px;
     font-weight: 500;
-    padding: 10px 20px 30px;
+    top: -10px;
 }
 
 .box p {
@@ -167,7 +167,7 @@
 .square u {
     font-size: 15px;
     font-weight: 500;
-    margin-bottom: 5px;
+    top: -10px;
 }
 
 .square p {
