@@ -63,10 +63,10 @@
 }
 
 .box u {
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 500;
     color: #000000;
-    padding: 25px;
+    padding-bottom: 25px;
 }
 
 .box p {
@@ -166,10 +166,10 @@
 }
 
 .square u {
-    font-size: 20px;
-    font-eight: 500;
+    font-size: 15px;
+    font-weight: 500;
     color: #000000;
-    padding: 25px;
+    padding-bottom: 25px;
 }
 
 .square p {
@@ -223,15 +223,15 @@
 }
 .cross h6 {
     font-size:15px;
-    padding-top: 25px;
+    padding-top: 35px;
     color: #000000;
 }
 
 .cross u {
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 500;
     color: #000000;
-    padding-top: 25px;
+    padding-top: 35px;
 }
 
 .cross p {
