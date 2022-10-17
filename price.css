@@ -157,12 +157,15 @@
       color: #000000;
 }
 
-
+.box h6 {
+  font-size: 15px;
+  margin-top: 25px;
+  color: #000000;
+}
 
 .square u {
     font-size: 15px;
     font-weight: 500;
-    top: -10px;
 }
 
 .square p {
