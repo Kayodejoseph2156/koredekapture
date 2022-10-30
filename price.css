@@ -33,17 +33,6 @@
           max-width: 200px;
            
     }
-    
-    @media  only screen and (max-width: 480px) {
-      .square {
-          max-width: 200px;
-    }
-        
-@media  only screen and (max-width: 480px) {
-      .cross {
-          max-width: 200px;
-           
-    }
 }
 
 
